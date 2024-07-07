@@ -29,7 +29,6 @@ Ensure you have Python installed...
 2. Setup virtual environment.
 3. Install dependencies.
 4. Run the application.
-  - `cd server
-  - `python server.py
+
    
     
