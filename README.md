@@ -21,8 +21,8 @@ Navigating Home Values is a web-based application developed to assist users in e
   
 ### Data and Models
 
--Machine Learning Model: A regression model to estimate property prices based on location, size, BHK, and other features.
--Dataset: Utilizes the Bangalore home prices dataset from Kaggle for training the model.
+- Machine Learning Model: A regression model to estimate property prices based on location, size, BHK, and other features.
+- Dataset: Utilizes the Bangalore home prices dataset from Kaggle for training the model.
 
 
 ## Installation
@@ -37,6 +37,7 @@ Ensure you have Python installed...
 2. Setup virtual environment.
 3. Install dependencies.
 4. Run the application.
+
 
    
     
