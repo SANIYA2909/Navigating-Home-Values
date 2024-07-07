@@ -19,7 +19,7 @@ Navigating Home Values is a web-based application developed to assist users in e
 
 - Leaflet.js
   
-###Data and Models
+### Data and Models
 
 -Machine Learning Model: A regression model to estimate property prices based on location, size, BHK, and other features.
 -Dataset: Utilizes the Bangalore home prices dataset from Kaggle for training the model.
